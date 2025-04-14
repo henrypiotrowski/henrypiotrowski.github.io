@@ -1,14 +1,7 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. My coursework covers corporate finance, financial modeling, accounting, portfolio management, and investment analysis. I have hands-on experience working with Excel, Python, Power BI, Access, Tableau, and R. I’m currently seeking full-time analyst roles in the financial services industry where I can apply my skills and continue to grow.
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/henrypiotrowski/henrypiotrowski.github.io/raw/master/images/LinkedIn Picture.JPG" width="50%">
-</p>
-
----
 
 ## Portfolio
 
