@@ -7,10 +7,10 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[10-K Sentiment Analysis](layouts/report.md?raw=true"/>)**_
+_**[10-K Sentiment Analysis](/layouts/report.md)**_
 
--Employed Python to scrape and parse SEC 10-K filings from all S&P 500 companies
--Applied sentiment analysis techniques to identify correlations between 10-K language tone and
+- Employed Python to scrape and parse SEC 10-K filings from all S&P 500 companies
+- Applied sentiment analysis techniques to identify correlations between 10-K language tone and
 subsequent stock return
 
 <img src="_layouts/report.md?raw=true"/>
