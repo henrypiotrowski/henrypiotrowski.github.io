@@ -5,8 +5,6 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 
 ## Portfolio
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
-
 _**[10-K Sentiment Analysis](/_layouts/report.md)**_
 
 - Employed Python to scrape and parse SEC 10-K filings from all S&P 500 companies
@@ -15,7 +13,7 @@ subsequent stock return
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](/_layouts/regression.md)**_
 
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
 
