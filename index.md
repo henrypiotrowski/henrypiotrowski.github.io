@@ -44,8 +44,7 @@ I’m currently seeking full-time analyst roles in the financial services indust
 
 My hobbies include running, basketball, cooking, hiking, and walking my dog Bonnie.
 
-https://upload.wikimedia.org/wikipedia/commons/b/b1/Bonnie_Schnoodle_Piotrowski.jpg
-
+![Bonnie](https://upload.wikimedia.org/wikipedia/commons/b/b1/Bonnie_Schnoodle_Piotrowski.jpg)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
