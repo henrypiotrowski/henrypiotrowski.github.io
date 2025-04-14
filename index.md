@@ -19,8 +19,11 @@ _**[Regression Practice](/_layouts/regression.md)**_
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Final Project](https://donbowen.github.io/teamproject/)**_
 
+- Cohen et al (2020) examined the language and construction of 10-K filings and showed that a portfolio that shorts “changers” and buys “nonchangers” earns up to 188 basis points per month in alpha
+- This suggests that traders do not trade on the information reflected in changes in 10-K
+- We attempt to replicate their findings on data before the first draft of their paper was made public (2010) and extend the data to see if the results hold up after publication. 
 
 
 ---
@@ -39,7 +42,9 @@ I’m currently seeking full-time analyst roles in the financial services indust
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+My hobbies include running, basketball, cooking, hiking, and walking my dog Bonnie.
+
+https://upload.wikimedia.org/wikipedia/commons/b/b1/Bonnie_Schnoodle_Piotrowski.jpg
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
