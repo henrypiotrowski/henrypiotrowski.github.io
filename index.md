@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. My coursework covers corporate finance, financial modeling, accounting, portfolio management, and investment analysis. I have hands-on experience working with Excel, Python, Power BI, Access, Tableau, and R. I’m currently seeking full-time analyst roles in the financial services industry where I can apply my skills and continue to grow.
+I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. My coursework covers corporate finance, financial modeling, accounting, portfolio management, and investment analysis. I have hands-on experience working with Excel, Python, Power BI, Access, Tableau, and R. I have completed two internships in fast-paced corporate finance environments, where I applied my skills to real-world financial challenges.
 
 
 ## Portfolio
@@ -21,21 +21,19 @@ _**[Regression Practice](/_layouts/regression.md)**_
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I’m currently seeking full-time analyst roles in the financial services industry. I believe my strong analytical and technical skills, combined with a curious mindset, work ethic, and leadership experience, make me a strong candidate for roles that demand critical thinking and initiative.
 
 ---
 
