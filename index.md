@@ -13,7 +13,7 @@ subsequent stock return
 
 ---
 
-_**[Regression Practice](/_layouts/regression.md)**_
+_**[Regression Practice](https://henrypiotrowski.github.io/_layouts/regression.md)**_
 
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
 
@@ -22,7 +22,6 @@ _**[Regression Practice](/_layouts/regression.md)**_
 _**[Final Project](https://donbowen.github.io/teamproject/)**_
 
 - Cohen et al (2020) examined the language and construction of 10-K filings and showed that a portfolio that shorts “changers” and buys “nonchangers” earns up to 188 basis points per month in alpha
-- This suggests that traders do not trade on the information reflected in changes in 10-K
 - We attempt to replicate their findings on data before the first draft of their paper was made public (2010) and extend the data to see if the results hold up after publication. 
 
 
