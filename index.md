@@ -19,7 +19,7 @@ _**[Regression Practice](/_layouts/regression.md)**_
 
 ---
 
-_**[Final Project](https://donbowen.github.io/teamproject/)**_
+_**[Replication of 'Lazy Prices'](https://donbowen.github.io/teamproject/)**_
 
 - Cohen et al (2020) examined the language and construction of 10-K filings and showed that a portfolio that shorts “changers” and buys “nonchangers” earns up to 188 basis points per month in alpha
 - We attempt to replicate their findings on data before the first draft of their paper was made public (2010) and extend the data to see if the results hold up after publication. 
@@ -27,11 +27,6 @@ _**[Final Project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-
-
----
 
 ## Career Objectives
 
