@@ -14,7 +14,7 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 subsequent stock return
 
 ---
-  <img src="/images/regression.png" alt="Regression Icon" width="90" style="vertical-align:middle;">
+  <img src="/images/regression.png" alt="Regression Icon" width="80" style="vertical-align:middle;">
 
 **[Regression Practice](/portfolio/regression.md)**
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
