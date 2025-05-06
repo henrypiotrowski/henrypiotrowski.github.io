@@ -25,7 +25,10 @@ subsequent stock return
 
 ---
 
-![Lazy_prices](/images/lazyprices.png) 
+<a href="/portfolio/README-2.md">
+  <img src="/images/lazyprices.png" alt="Lazy Prices Icon" width="100" style="vertical-align:middle;">
+</a>
+
 _**[Replication of 'Lazy Prices'](/portfolio/README-2.md)**_
 
 - In their 2020 paper, Cohen, Malloy, and Nguyen analyzed the language and structure of 10-K filings and found that a portfolio strategy that shorts “changers” and buys  “nonchangers” can generate up to 188 basis points in alpha
