@@ -17,7 +17,7 @@ subsequent stock return
 
 ---
 <a href="/portfolio/regression.md">
-  <img src="/images/regression.png" alt="Regression Icon" width="100" style="vertical-align:middle;">
+  <img src="/images/regression.png" alt="Regression Icon" width="90" style="vertical-align:middle;">
 </a>
 
 **[Regression Practice](/portfolio/regression.md)**
