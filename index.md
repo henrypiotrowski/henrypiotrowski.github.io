@@ -6,7 +6,7 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 ## Portfolio
 
 **[10-K Sentiment Analysis](/portfolio/report.md)**
-[![10-K Icon](/images/10k.png)](/portfolio/report.md) 
+[![10-K Icon](/images/10k.png)]
 - Employed Python to scrape and parse SEC 10-K filings from all S&P 500 companies
 - Applied sentiment analysis techniques to identify correlations between 10-K language tone and
 subsequent stock return
