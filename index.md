@@ -14,18 +14,14 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 subsequent stock return
 
 ---
-<a href="/portfolio/regression.md">
   <img src="/images/regression.png" alt="Regression Icon" width="90" style="vertical-align:middle;">
-</a>
 
 **[Regression Practice](/portfolio/regression.md)**
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
 
 ---
 
-<a href="/portfolio/README-2.md">
   <img src="/images/lazyprices.png" alt="Lazy Prices Icon" width="100" style="vertical-align:middle;">
-</a>
 
 _**[Replication of 'Lazy Prices'](/portfolio/README-2.md)**_
 
