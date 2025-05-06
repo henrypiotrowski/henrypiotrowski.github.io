@@ -6,7 +6,7 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 ## Portfolio
 
 <a href="/portfolio/report.md">
-  <img src="/images/10k_sentiment.png" alt="10-K Sentiment Analysis" style="width:60px; height:auto; vertical-align:middle;">
+  <img src="/images/10k.png" alt="10-K Sentiment Analysis" style="width:60px; height:auto; vertical-align:middle;">
 </a>
 
 - Employed Python to scrape and parse SEC 10-K filings from all S&P 500 companies
