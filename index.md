@@ -6,7 +6,7 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 ## Portfolio
 
 **[10-K Sentiment Analysis](/portfolio/report.md)**
-[![10-K Icon](/images/10k_small.png)](/portfolio/report.md) 
+[![10-K Icon](/images/10k.png)](/portfolio/report.md) 
 
 
 
