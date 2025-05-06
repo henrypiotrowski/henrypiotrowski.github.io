@@ -4,6 +4,7 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 
 
 ## Portfolio
+---
 
 [![10-K Icon](/images/10k.png)](/portfolio/report.md) **[10-K Sentiment Analysis](/portfolio/report.md)**
 
@@ -13,8 +14,7 @@ subsequent stock return
 
 ---
 
-_**[Regression Practice](/portfolio/regression.md)**_
-[![Regression](/images/regression.png)](/portfolio/report.md)] 
+[![Regression](/images/regression.png)](/portfolio/regression.md) _**[Regression Practice](/portfolio/regression.md)**_
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
 
 ---
