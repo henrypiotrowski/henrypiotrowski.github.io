@@ -18,6 +18,7 @@ subsequent stock return
 ---
 
 _**[Regression Practice](/portfolio/regression.md)**_
+[![Regression](/images/regression.png)](/portfolio/report.md) 
 
 - Applied statistical regression techniques to uncover correlations between various variables and home sale prices
 
