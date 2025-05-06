@@ -6,10 +6,10 @@ I’m a senior at Lehigh University pursuing a bachelor’s degree in finance. M
 ## Portfolio
 
 <a href="/portfolio/report.md">
-  <img src="/images/10k_sentiment.png" alt="10-K Sentiment Analysis" style="width:60px; height:auto; vertical-align:middle;">
+  <img src="/images/10k.png" alt="10-K Sentiment Analysis" style="width:60px; height:auto; vertical-align:middle;">
 </a>
 
-**[10-K Sentiment Analysis](/portfolio/report.md)**_
+**[10-K Sentiment Analysis](/portfolio/report.md)**
 
 
 
